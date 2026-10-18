@@ -217,7 +217,7 @@ Automated access and bulk collection of contact data may be restricted by Import
 
 ## Support
 
-Stuck on installation, Chrome/driver errors, login, or resuming a run? Check [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) first. If you're still puzzled, **email us for the code and a complete setup guide:** Freightdataus@gmail.com](mailto:Freightdataus@gmail.com). You can also open an issue at https://github.com/Shubsaini08/Import-Info-Extractor/issues (never paste credentials or scraped data into an issue).
+Stuck on installation, Chrome/driver errors, login, or resuming a run? Check [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) first. If you're still puzzled, **email us for the code and a complete setup guide:** [Freightdataus@gmail.com](mailto:Freightdataus@gmail.com). You can also open an issue at https://github.com/Shubsaini08/Import-Info-Extractor/issues (never paste credentials or scraped data into an issue).
 
 ## License
 
